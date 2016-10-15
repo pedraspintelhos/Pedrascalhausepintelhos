@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+            <title>Pedras Calhaus E Pintelhos</title>
+            <style>
+                body {
+                    background-color: #2A363B;
+                    }
+                h1 {
+                    background-color: #E84A5F;
+                    border: 5px solid #99B898;
+                    margin: 20px;
+                    color: #FECEA8;
+                    font-family: "Times New Roman", Times, serif;
+                    font-size: 270%;
+                    font-style: bold;
+                    text-align:center;
+                    letter-spacing: 20px;
+                    }
+                h2 {
+                    color: #FF847C;
+                    position: absolute;
+                    top:220px;
+                    left: 100px;
+                    width: 100%;
+                    margin: 0 auto;
+                    width: 300px;
+                    height: 35px;
+                    }
+                p {
+                    color: #FECEA8;
+                    margin: 25px;
+                    font-family: "Times New Roman", Times, serif;
+                    font-size: 70%;
+                    text-align:center;
+                    }
+                img {
+                    border: 6px solid #FF847C;
+                    margin: -15px;
+                    width:100%;
+                    position: center;
+                    }
+                a {
+                  color: #FF847C;
+                  margin: 101px;
+                  font-family:Monospace;
+                  font-size: 143%;
+                  letter-spacing: 5px;
+                  }
+                c {
+                    background-color: white;
+                    border: 1px solid #FF847C;
+                  }
+            </style>
+        </head>
+        <body>
+            <h1>PEDRAS CALHAUS E PINTELHOS</h1>
+            <center>
+            <c>
+            <a href="https://www.facebook.com/PCPintelhos">FACEBOOK</a>
+            <a href="https://soundcloud.com/pedras-calhaus-e-pintelhos">SOUNDCLOUD</a>
+            <a href="https://twitter.com/PCPintelhos">TWITTER</a>
+            <a href="https://www.youtube.com/user/PCPintelhos">YOUTUBE</a>
+            </c>
+            <center>
+                <br>
+                    <br>
+                        <div class="img">
+                            <div class="text">
+                                <img src="Bill_Cosby.jpg" alt="Bill Cosby" style="width:1298px;height:455px;">
+                                <h2>DOWN OF LOURO IN ONE MONTH, SUCK MY DICK FOR PREVIEWS.</h2>
+                            </div>
+                        </div>
+            </center>
+            <p>Unauthorized use, in any kind of form of my art, will result in you watching Bible Black with me.</p>
+        </body>
+    </html>
